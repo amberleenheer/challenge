@@ -1,0 +1,27 @@
+.subreddit-text {
+	float: left;
+	margin-left: 15%;
+}
+
+.change-sub-box {
+
+}
+
+.reload-button {
+	float: right;
+	margin-right: 15%;
+}
+
+.table {
+	float: left;
+	margin-left: 15%;
+}
+
+.logo {
+	text-align:center;
+}
+
+.table {
+	text-align: left;
+	float: center;
+}
